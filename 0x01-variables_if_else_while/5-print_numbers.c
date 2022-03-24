@@ -1,18 +1,17 @@
 #include <stdio.h>
 /**
-* main will print all the numbers
-* 
-* between 0 and 10
+* main - print if the number is postive, zero, or negative
+*
 * Description: using the main function
-* the program prints 0,1,2,3....10
-* Return:0 
+* this program prints "Programming is positive, zero, or negative
+* Return: 0
 */
 int main(void)
 {
-int a;
-for (a = 0; a < 10; a++)
+int i;
+for (i = 0; i < 10; i++)
 {
-printf("%d", a);
+printf("%i", i);
 }
 printf("\n");
 return (0);
