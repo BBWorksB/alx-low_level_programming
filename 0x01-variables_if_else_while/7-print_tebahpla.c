@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-* main prints the alphabets in reverse mode
-* 
-* Description of the main function and how its used
-* the program will display the alphabets in the desceding way
+* main -  print the alphabets in reverse
+*
+* Description - using the main function
+* the program prints "z to a"
 * Return: 0
 */
 int main(void)
